@@ -2,7 +2,7 @@
 An E_wallet backend app built for the usage of user to help manage their monetary needs using django 
 
 TECHNOLOGICAL USAGES:
-    Python
+        Python
     Django
     MySQL
     Djoser
