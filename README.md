@@ -12,11 +12,11 @@ TECHNOLOGICAL USAGES:
   
 IMPORTANT LINKS
 To clone project:
-  git clone https://github.com/morsecodes007/E-wallet
+  git clone https://github.com/ernest-emmanuel-utibe/E-wallet
 
 
 DEVELOPER AND ENGINEER
 ERNEST EMMANUEL UTIBE
 
-GitHub (morsecodes007)
+GitHub (ernest-emmanuel-utibe)
 LinkedIn (Ernest Emmanuel Utibe)
